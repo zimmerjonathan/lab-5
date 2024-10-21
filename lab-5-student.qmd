@@ -43,7 +43,6 @@ library(tidyverse)
 # If purrr is not detected, install the package
 if (!"purrr" %in% installed.packages()) install.packages("purrr")
 
-### CHANGE TO MY GITHUB
 source("https://raw.githubusercontent.com/atheobold/groupworthy-data-science/main/labs/instructions/lab-5-setup.R")
 ```
 
