@@ -1,6 +1,6 @@
 ---
 title: "Lab 5: Murder in SQL City"
-author: "Your name here!"
+author: "Jonathan Zimmer"
 format: html
 editor: source
 embed-resources: true
